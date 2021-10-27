@@ -1,0 +1,21 @@
+{
+  "name": "github-test-rest-api-nile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilePresidium/github-test-rest-api-nile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NilePresidium/github-test-rest-api-nile/issues"
+  },
+  "homepage": "https://github.com/NilePresidium/github-test-rest-api-nile#readme"
+}
